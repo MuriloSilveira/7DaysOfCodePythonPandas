@@ -1,1 +1,3 @@
-# 7DaysOfCodePythonPandas
+<h1 align = "center">7 Days of Code - Python Pandas</h1>
+<p align = "center">Challenge developed by Francisco Foz to practice the use of Pandas Python libray, in data manipulaction, visualization and analitics. In the challenge, the data from UFRN (Universidade Federal do Rio Grande do Norte) library loans are explored</p>
+<p align = "left">The files imported into the Notebook (Jupyter/GoogleColab/..) can be found at Datasets folder</p>
