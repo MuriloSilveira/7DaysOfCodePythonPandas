@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-Desafio elaborado por [Francisco Foz](https://7daysofcode.io/matricula/pandas) para praticar o uso da biblioteca Pandas em Python, através da manipulação, visualização e análise dos dados. No desafio, foram explorados os dados de empréstimos de exemplares das bibiliotecas da UFRN(Universidade Federal do Rio Grande do Norte)
+Desafio elaborado por [Francisco Foz](https://7daysofcode.io/matricula/pandas) para praticar o uso da biblioteca Pandas em Python, através da manipulação, visualização e análise dos dados. No desafio, foram explorados os dados de empréstimos de exemplares das bibliotecas da UFRN(Universidade Federal do Rio Grande do Norte)
 ## Conteúdo
 - Day 1: Importação dos dados
 - Day 2: Limpeza dos dados
